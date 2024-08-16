@@ -2,8 +2,8 @@
 <resources>
     <style name="App.Starting.Theme" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">#1C1E21</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
         <item name="postSplashScreenTheme">@style/Theme.NewsApp</item>
+        <item name="android:icon">@drawable/worldnews1</item>
 
 
     </style>
